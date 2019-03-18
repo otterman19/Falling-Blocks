@@ -132,3 +132,4 @@ while not game_over:
 
     pygame.display.update()
 
+ 
